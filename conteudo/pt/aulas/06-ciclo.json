@@ -84,9 +84,9 @@
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "Caso completo: agente de atendimento de clínica", "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/09-caso-clinica.md", "icone": "arquivo"},
-        {"t": "Observabilidade do cultivo", "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/10-observabilidade.md", "icone": "grafico"},
-        {"t": "Pacote: triagem de atendimento", "href": "https://github.com/inematds/iacultivada/tree/main/pacotes/triagem-de-atendimento", "icone": "pasta"}
+        {"t": "Caso completo: agente de atendimento de clínica", "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/09-caso-clinica.md", "icone": "arquivo"},
+        {"t": "Observabilidade do cultivo", "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/10-observabilidade.md", "icone": "grafico"},
+        {"t": "Pacote: triagem de atendimento", "href": "https://github.com/linnoff88-dev/iacultivada/tree/main/pacotes/triagem-de-atendimento", "icone": "pasta"}
       ]
     }
   ]

@@ -1,4 +1,4 @@
-ï»¿# IA Cultivada ê¢â¬â curso (INEMA Learning v7.2)
+ï»¿# IA Cultivada ê¢â¬â curso (ARCKHÉ Learning v7.2)
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,11 +6,11 @@
 </div>
 
 
-ê°Å¸â¡Â§ê°Å¸â¡Â· [PortuguêÂªs](https://inematds.github.io/iacultivada-v72/) êÂ· ê°Å¸â¡Âºê°Å¸â¡Â¸ [English](https://inematds.github.io/iacultivada-v72/en/) êÂ· ê°Å¸â¡Âªê°Å¸â¡Â¸ [EspaêÂ±ol](https://inematds.github.io/iacultivada-v72/es/)
+ê°Å¸â¡Â§ê°Å¸â¡Â· [PortuguêÂªs](https://linnoff88-dev.github.io/arckhe-/) êÂ· ê°Å¸â¡Âºê°Å¸â¡Â¸ [English](https://linnoff88-dev.github.io/arckhe-/en/) êÂ· ê°Å¸â¡Âªê°Å¸â¡Â¸ [EspaêÂ±ol](https://linnoff88-dev.github.io/arckhe-/es/)
 
-[![IA Cultivada](assets/img/capa.jpg)](https://inematds.github.io/iacultivada-v72/)
+[![IA Cultivada](assets/img/capa.jpg)](https://linnoff88-dev.github.io/arckhe-/)
 
-VersêÂ£o em curso do projeto [IA Cultivada](https://inematds.github.io/iacultivada/) ("nêÂ£o se programa, se cultiva"). O projeto original continua no ar com os capêÂ­tulos, kits, gerador, diagnêÂ³stico, skills e o vêÂ­deo; este curso organiza o mesmo conteêÂºdo em 8 aulas com diagrama clicêÂ¡vel, prêÂ¡tica com "pronto quando", teste comentado e um plano datado no fim.
+VersêÂ£o em curso do projeto [IA Cultivada](https://linnoff88-dev.github.io/arckhe-/) ("nêÂ£o se programa, se cultiva"). O projeto original continua no ar com os capêÂ­tulos, kits, gerador, diagnêÂ³stico, skills e o vêÂ­deo; este curso organiza o mesmo conteêÂºdo em 8 aulas com diagrama clicêÂ¡vel, prêÂ¡tica com "pronto quando", teste comentado e um plano datado no fim.
 
 ## As aulas
 
@@ -41,13 +41,13 @@ python3 gerar.py && python3 gerar.py --lang en && python3 gerar.py --lang es
 python3 validar.py --links
 ```
 
-## Mais no INEMA.CLUB
+## Mais no ARCKHÉ AI
 
-- [Ficha completa deste curso](https://www.inema.club/cursos/328-ia-cultivada-curso-em-8-aulas-faca-o-seu-agente-melhorar-a-cada-semana/)
-- [Guia: como aprender inteligêÂªncia artificial](https://www.inema.club/aprender-inteligencia-artificial/)
-- [Todos os cursos](https://www.inema.club/cursos/)
+- [Ficha completa deste curso](https://www.ARCKHÉ AI/cursos/328-ia-cultivada-curso-em-8-aulas-faca-o-seu-agente-melhorar-a-cada-semana/)
+- [Guia: como aprender inteligêÂªncia artificial](https://www.ARCKHÉ AI/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.ARCKHÉ AI/cursos/)
 
-ConteêÂºdo educacional aberto e gratuito do [INEMA.CLUB](https://inema.club).
+ConteêÂºdo educacional aberto e gratuito do [ARCKHÉ AI](https://ARCKHÉ AI).
 
 ---
 

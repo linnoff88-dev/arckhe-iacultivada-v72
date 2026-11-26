@@ -201,7 +201,7 @@
           "id": "e1",
           "titulo": "1 · Maturity diagnostic",
           "min": "10 min",
-          "texto": "Open the <a href=\"https://inematds.github.io/iacultivada/diagnostico/\">project diagnostic</a> and answer the eight questions thinking about the AI you use most today.",
+          "texto": "Open the <a href=\"https://linnoff88-dev.github.io/arckhe-/diagnostico/\">project diagnostic</a> and answer the eight questions thinking about the AI you use most today.",
           "pronto": "you wrote down your score, the place to start, and which kit the diagnostic recommended."
         },
         {
@@ -289,17 +289,17 @@
       "links": [
         {
           "t": "The full concept (Cultivated AI project)",
-          "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/00-conceito.md",
+          "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/00-conceito.md",
           "icone": "arquivo"
         },
         {
           "t": "Research: origin of the concept and critiques, with sources",
-          "href": "https://github.com/inematds/iacultivada/blob/main/pesquisa/relatorio-pesquisa.md",
+          "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/pesquisa/relatorio-pesquisa.md",
           "icone": "lupa"
         },
         {
           "t": "Video page with chapters",
-          "href": "https://inematds.github.io/iacultivada/videos/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/videos/",
           "icone": "video"
         }
       ]

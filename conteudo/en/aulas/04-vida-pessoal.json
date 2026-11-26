@@ -169,7 +169,7 @@
           "id": "e1",
           "titulo": "1 · About me and three rules",
           "min": "25 min",
-          "texto": "Write SOBRE-MIM.md and REGRAS.md with a single role. The <a href=\"https://inematds.github.io/iacultivada/kits/\">personal kit</a> has the files with a fictional example.",
+          "texto": "Write SOBRE-MIM.md and REGRAS.md with a single role. The <a href=\"https://linnoff88-dev.github.io/arckhe-/kits/\">personal kit</a> has the files with a fictional example.",
           "pronto": "About me fits on one page, the role is written in one sentence, and there are exactly three rules."
         },
         {
@@ -258,12 +258,12 @@
       "links": [
         {
           "t": "Cultivated AI in personal life (full text)",
-          "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/01-vida-pessoal.md",
+          "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/01-vida-pessoal.md",
           "icone": "arquivo"
         },
         {
           "t": "Personal kit to download",
-          "href": "https://inematds.github.io/iacultivada/kits/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/kits/",
           "icone": "baixar"
         }
       ]

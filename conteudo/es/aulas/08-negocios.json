@@ -341,27 +341,27 @@
       "links": [
         {
           "t": "IA Cultivada en los negocios (texto completo)",
-          "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/03-negocios.md",
+          "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/03-negocios.md",
           "icone": "arquivo"
         },
         {
           "t": "El jardín acumulado como propiedad intelectual",
-          "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/11-jardim-ativo.md",
+          "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/11-jardim-ativo.md",
           "icone": "cerebro"
         },
         {
           "t": "Paquetes de agentes por área (leads, atención al cliente, finanzas, marketing)",
-          "href": "https://github.com/inematds/iacultivada/tree/main/pacotes",
+          "href": "https://github.com/linnoff88-dev/iacultivada/tree/main/pacotes",
           "icone": "pasta"
         },
         {
           "t": "Kit de empresa para descargar",
-          "href": "https://inematds.github.io/iacultivada/kits/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/kits/",
           "icone": "baixar"
         },
         {
-          "t": "Cursos abiertos en INEMA.CLUB",
-          "href": "https://inema.club/",
+          "t": "Cursos abiertos en ARCKHÉ AI",
+          "href": "https://ARCKHÉ AI/",
           "icone": "seta"
         }
       ]

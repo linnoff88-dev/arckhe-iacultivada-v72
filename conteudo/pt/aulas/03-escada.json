@@ -104,9 +104,9 @@
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "Escada de maturidade (texto completo)", "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/05-escada-maturidade.md", "icone": "arquivo"},
-        {"t": "Memória nêo é aprendizado", "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/08-memoria-vs-cultivo.md", "icone": "memoria"},
-        {"t": "Mapa dos sistemas atuais", "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/07-mapa-sistemas.md", "icone": "camadas"}
+        {"t": "Escada de maturidade (texto completo)", "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/05-escada-maturidade.md", "icone": "arquivo"},
+        {"t": "Memória nêo é aprendizado", "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/08-memoria-vs-cultivo.md", "icone": "memoria"},
+        {"t": "Mapa dos sistemas atuais", "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/07-mapa-sistemas.md", "icone": "camadas"}
       ]
     }
   ]

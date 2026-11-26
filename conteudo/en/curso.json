@@ -1,29 +1,29 @@
 {
   "id": "iacultivada-v72",
   "lang": "en",
-  "url": "https://inematds.github.io/iacultivada-v72/en/",
+  "url": "https://linnoff88-dev.github.io/arckhe-/en/",
   "nome": "Cultivated AI",
   "sub": "You don't program it, you cultivate it",
   "volta": {
     "t": "Cultivated AI project page",
-    "href": "https://inematds.github.io/iacultivada/en/"
+    "href": "https://linnoff88-dev.github.io/arckhe-/en/"
   },
   "lado_card": {
     "rot": "Ready to download",
     "t": "Three kits with the five files",
     "texto": "Personal, Jarvis, and company: agent profile, context, examples, failure log, and review, already structured with a fictional example.",
     "link": "Open the kits",
-    "href": "https://inematds.github.io/iacultivada/kits/"
+    "href": "https://linnoff88-dev.github.io/arckhe-/kits/"
   },
-  "rodape": "INEMA.CLUB · open and free content · INEMA Learning format v7.2 · <a href=\"https://inematds.github.io/iacultivada/en/\">Cultivated AI Project</a> · <a href=\"https://github.com/inematds/iacultivada\">repository with kits, skills, and packages</a> · <a href=\"https://inema.club/\">inema.club</a> · <a href=\"https://www.inema.club/cursos/328-ia-cultivada-curso-em-8-aulas-faca-o-seu-agente-melhorar-a-cada-semana/\">Full page for this course on INEMA.CLUB</a> · <a href=\"https://www.inema.club/aprender-inteligencia-artificial/\">Guide: how to learn artificial intelligence</a>",
+  "rodape": "ARCKHÉ AI · open and free content · ARCKHÉ Learning format v7.2 · <a href=\"https://linnoff88-dev.github.io/arckhe-/en/\">Cultivated AI Project</a> · <a href=\"https://github.com/linnoff88-dev/iacultivada\">repository with kits, skills, and packages</a> · <a href=\"https://ARCKHÉ AI/\">ARCKHÉ AI</a> · <a href=\"https://www.ARCKHÉ AI/cursos/328-ia-cultivada-curso-em-8-aulas-faca-o-seu-agente-melhorar-a-cada-semana/\">Full page for this course on ARCKHÉ AI</a> · <a href=\"https://www.ARCKHÉ AI/aprender-inteligencia-artificial/\">Guide: how to learn artificial intelligence</a>",
   "videos": {
     "iacultivada": {
       "titulo": "Cultivated AI: why your AI keeps making the same mistake",
       "duracao": "9 min 54 s",
-      "mp4": "https://github.com/inematds/iacultivada/releases/download/video-v2.0.0/iacultivada-en.mp4",
+      "mp4": "https://github.com/linnoff88-dev/iacultivada/releases/download/video-v2.0.0/iacultivada-en.mp4",
       "vtt": "assets/vtt/iacultivada-en.vtt",
       "poster": "assets/img/iacultivada.jpg",
-      "pagina": "https://inematds.github.io/iacultivada/videos/en/"
+      "pagina": "https://linnoff88-dev.github.io/arckhe-/videos/en/"
     }
   },
   "inicio": {
@@ -33,7 +33,7 @@
     "cta": "Start with lesson 1",
     "cta2": {
       "t": "Take the maturity assessment",
-      "href": "https://inematds.github.io/iacultivada/diagnostico/"
+      "href": "https://linnoff88-dev.github.io/arckhe-/diagnostico/"
     },
     "capa_alt": "Cultivated AI: a greenhouse with seedlings growing and threads of digital light at the roots.",
     "numeros": [

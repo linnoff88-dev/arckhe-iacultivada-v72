@@ -236,17 +236,17 @@
       "links": [
         {
           "t": "Full case: clinic customer service agent",
-          "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/09-caso-clinica.md",
+          "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/09-caso-clinica.md",
           "icone": "arquivo"
         },
         {
           "t": "Cultivation observability",
-          "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/10-observabilidade.md",
+          "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/10-observabilidade.md",
           "icone": "grafico"
         },
         {
           "t": "Package: customer service triage",
-          "href": "https://github.com/inematds/iacultivada/tree/main/pacotes/triagem-de-atendimento",
+          "href": "https://github.com/linnoff88-dev/iacultivada/tree/main/pacotes/triagem-de-atendimento",
           "icone": "pasta"
         }
       ]

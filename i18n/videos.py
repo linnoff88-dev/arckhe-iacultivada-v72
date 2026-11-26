@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 
 raiz = Path(__file__).resolve().parent.parent
-REL = "https://github.com/inematds/iacultivada/releases/download/video-v2.0.0/"
+REL = "https://github.com/linnoff88-dev/iacultivada/releases/download/video-v2.0.0/"
 DUR = {"en": "9 min 54 s", "es": "8 min 59 s"}
 for lang in ("en", "es"):
     f = raiz / "conteudo" / lang / "curso.json"
@@ -15,9 +15,9 @@ for lang in ("en", "es"):
     v["mp4"] = f"{REL}iacultivada-{lang}.mp4"
     v["vtt"] = f"assets/vtt/iacultivada-{lang}.vtt"
     v["duracao"] = DUR[lang]
-    v["pagina"] = f"https://inematds.github.io/iacultivada/videos/{lang}/"
+    v["pagina"] = f"https://linnoff88-dev.github.io/arckhe-/videos/{lang}/"
     # links de volta para a página do projeto no mesmo idioma (o tradutor nêo mexe em href)
-    proj = "https://inematds.github.io/iacultivada/"
+    proj = "https://linnoff88-dev.github.io/arckhe-/"
     c["volta"]["href"] = f"{proj}{lang}/"
     c["rodape"] = c["rodape"].replace(f'href="{proj}"', f'href="{proj}{lang}/"')
     f.write_text(json.dumps(c, ensure_ascii=False, indent=2) + "\n")

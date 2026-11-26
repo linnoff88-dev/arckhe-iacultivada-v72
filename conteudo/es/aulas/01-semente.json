@@ -201,7 +201,7 @@
           "id": "e1",
           "titulo": "1 · Diagnóstico de madurez",
           "min": "10 min",
-          "texto": "Abre el <a href=\"https://inematds.github.io/iacultivada/diagnostico/\">diagnóstico del proyecto</a> y responde las ocho preguntas pensando en la IA que más usas hoy.",
+          "texto": "Abre el <a href=\"https://linnoff88-dev.github.io/arckhe-/diagnostico/\">diagnóstico del proyecto</a> y responde las ocho preguntas pensando en la IA que más usas hoy.",
           "pronto": "anotaste tu puntuación, el punto por donde empezar y qué kit indicó el diagnóstico."
         },
         {
@@ -289,17 +289,17 @@
       "links": [
         {
           "t": "El concepto completo (proyecto IA Cultivada)",
-          "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/00-conceito.md",
+          "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/00-conceito.md",
           "icone": "arquivo"
         },
         {
           "t": "Investigación: origen del concepto y críticas, con fuentes",
-          "href": "https://github.com/inematds/iacultivada/blob/main/pesquisa/relatorio-pesquisa.md",
+          "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/pesquisa/relatorio-pesquisa.md",
           "icone": "lupa"
         },
         {
           "t": "Página del video con capítulos",
-          "href": "https://inematds.github.io/iacultivada/videos/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/videos/",
           "icone": "video"
         }
       ]

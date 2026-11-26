@@ -67,7 +67,7 @@
       "titulo": "Prática",
       "sub": "Esta semana.",
       "exercicios": [
-        {"id": "e1", "titulo": "1 · Sobre mim e três regras", "min": "25 min", "texto": "Escreva o SOBRE-MIM.md e o REGRAS.md com uma funçêo só. O <a href=\"https://inematds.github.io/iacultivada/kits/\">kit pessoal</a> tem os arquivos com exemplo fictício.", "pronto": "o Sobre mim cabe em uma página, a funçêo está escrita em uma frase e há exatamente três regras."},
+        {"id": "e1", "titulo": "1 · Sobre mim e três regras", "min": "25 min", "texto": "Escreva o SOBRE-MIM.md e o REGRAS.md com uma funçêo só. O <a href=\"https://linnoff88-dev.github.io/arckhe-/kits/\">kit pessoal</a> tem os arquivos com exemplo fictício.", "pronto": "o Sobre mim cabe em uma página, a funçêo está escrita em uma frase e há exatamente três regras."},
         {"id": "e2", "titulo": "2 · A primeira revisêo semanal", "min": "20 min", "dias": 7, "texto": "Use a IA na mesma funçêo durante uma semana, carregando os arquivos no início. No fim, faça a revisêo com o modelo acima.", "pronto": "o FALHAS.md tem pelo menos três linhas e pelo menos uma delas virou mudança num arquivo (regra, contexto ou exemplo)."}
       ]
     },
@@ -95,8 +95,8 @@
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "IA Cultivada na vida pessoal (texto completo)", "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/01-vida-pessoal.md", "icone": "arquivo"},
-        {"t": "Kit pessoal para baixar", "href": "https://inematds.github.io/iacultivada/kits/", "icone": "baixar"}
+        {"t": "IA Cultivada na vida pessoal (texto completo)", "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/01-vida-pessoal.md", "icone": "arquivo"},
+        {"t": "Kit pessoal para baixar", "href": "https://linnoff88-dev.github.io/arckhe-/kits/", "icone": "baixar"}
       ]
     }
   ]

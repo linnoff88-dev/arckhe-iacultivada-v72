@@ -75,7 +75,7 @@
       "titulo": "Prática",
       "sub": "Comece medindo onde você está.",
       "exercicios": [
-        {"id": "e1", "titulo": "1 · Diagnóstico de maturidade", "min": "10 min", "texto": "Abra o <a href=\"https://inematds.github.io/iacultivada/diagnostico/\">diagnóstico do projeto</a> e responda as oito perguntas pensando na IA que você mais usa hoje.", "pronto": "você anotou a sua nota, o ponto por onde começar e qual kit o diagnóstico indicou."},
+        {"id": "e1", "titulo": "1 · Diagnóstico de maturidade", "min": "10 min", "texto": "Abra o <a href=\"https://linnoff88-dev.github.io/arckhe-/diagnostico/\">diagnóstico do projeto</a> e responda as oito perguntas pensando na IA que você mais usa hoje.", "pronto": "você anotou a sua nota, o ponto por onde começar e qual kit o diagnóstico indicou."},
         {"id": "e2", "titulo": "2 · A correçêo que se repete", "min": "10 min", "texto": "Lembre de uma coisa que você já explicou à IA três vezes ou mais (um formato, um tom, um dado). Escreva numa nota: o que você repete e em qual dos oito elementos isso deveria morar (contexto, regra ou exemplo).", "pronto": "a nota tem a correçêo repetida e o elemento onde ela vai morar."}
       ]
     },
@@ -103,9 +103,9 @@
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "O conceito completo (projeto IA Cultivada)", "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/00-conceito.md", "icone": "arquivo"},
-        {"t": "Pesquisa: origem do conceito e críticas, com fontes", "href": "https://github.com/inematds/iacultivada/blob/main/pesquisa/relatorio-pesquisa.md", "icone": "lupa"},
-        {"t": "Página do vídeo com capítulos", "href": "https://inematds.github.io/iacultivada/videos/", "icone": "video"}
+        {"t": "O conceito completo (projeto IA Cultivada)", "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/00-conceito.md", "icone": "arquivo"},
+        {"t": "Pesquisa: origem do conceito e críticas, com fontes", "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/pesquisa/relatorio-pesquisa.md", "icone": "lupa"},
+        {"t": "Página do vídeo com capítulos", "href": "https://linnoff88-dev.github.io/arckhe-/videos/", "icone": "video"}
       ]
     }
   ]

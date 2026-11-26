@@ -176,14 +176,14 @@
           "id": "e1",
           "titulo": "1 · Your agent's profile",
           "min": "20 min",
-          "texto": "Choose an agent (it can be the AI you use for a single task). Fill out the profile in the <a href=\"https://inematds.github.io/iacultivada/gerador/\">project generator</a> or copy the template above.",
+          "texto": "Choose an agent (it can be the AI you use for a single task). Fill out the profile in the <a href=\"https://linnoff88-dev.github.io/arckhe-/gerador/\">project generator</a> or copy the template above.",
           "pronto": "the profile has a one-sentence role, a human owner, and at least two items in each list: does on its own, asks for confirmation, and never does."
         },
         {
           "id": "e2",
           "titulo": "2 · The five files in a folder",
           "min": "15 min",
-          "texto": "Download the kit that fits you (personal, Jarvis, or company) from the <a href=\"https://inematds.github.io/iacultivada/kits/\">kits page</a> or create the five empty files in a folder.",
+          "texto": "Download the kit that fits you (personal, Jarvis, or company) from the <a href=\"https://linnoff88-dev.github.io/arckhe-/kits/\">kits page</a> or create the five empty files in a folder.",
           "pronto": "there is a folder with the five files (profile, context, examples, failures, and scorecard or review) and the profile from exercise 1 is inside it."
         }
       ]
@@ -264,17 +264,17 @@
       "links": [
         {
           "t": "Kits to download (personal, Jarvis, company)",
-          "href": "https://inematds.github.io/iacultivada/kits/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/kits/",
           "icone": "baixar"
         },
         {
           "t": "Generator for the profile, context, and scorecard",
-          "href": "https://inematds.github.io/iacultivada/gerador/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/gerador/",
           "icone": "caneta"
         },
         {
           "t": "Complete practical kit (text)",
-          "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/04-kit-pratico.md",
+          "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/04-kit-pratico.md",
           "icone": "arquivo"
         }
       ]

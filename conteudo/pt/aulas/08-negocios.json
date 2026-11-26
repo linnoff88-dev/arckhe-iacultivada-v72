@@ -112,11 +112,11 @@
       "tipo": "links",
       "titulo": "Continue por aqui",
       "links": [
-        {"t": "IA Cultivada nos negócios (texto completo)", "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/03-negocios.md", "icone": "arquivo"},
-        {"t": "O jardim acumulado como propriedade intelectual", "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/11-jardim-ativo.md", "icone": "cerebro"},
-        {"t": "Pacotes de agentes por área (leads, atendimento, financeiro, marketing)", "href": "https://github.com/inematds/iacultivada/tree/main/pacotes", "icone": "pasta"},
-        {"t": "Kit empresa para baixar", "href": "https://inematds.github.io/iacultivada/kits/", "icone": "baixar"},
-        {"t": "Cursos abertos no INEMA.CLUB", "href": "https://inema.club/", "icone": "seta"}
+        {"t": "IA Cultivada nos negócios (texto completo)", "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/03-negocios.md", "icone": "arquivo"},
+        {"t": "O jardim acumulado como propriedade intelectual", "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/11-jardim-ativo.md", "icone": "cerebro"},
+        {"t": "Pacotes de agentes por área (leads, atendimento, financeiro, marketing)", "href": "https://github.com/linnoff88-dev/iacultivada/tree/main/pacotes", "icone": "pasta"},
+        {"t": "Kit empresa para baixar", "href": "https://linnoff88-dev.github.io/arckhe-/kits/", "icone": "baixar"},
+        {"t": "Cursos abertos no ARCKHÉ AI", "href": "https://ARCKHÉ AI/", "icone": "seta"}
       ]
     }
   ]

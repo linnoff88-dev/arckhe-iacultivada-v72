@@ -236,17 +236,17 @@
       "links": [
         {
           "t": "Caso completo: agente de atención de una clínica",
-          "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/09-caso-clinica.md",
+          "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/09-caso-clinica.md",
           "icone": "arquivo"
         },
         {
           "t": "Observabilidad del cultivo",
-          "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/10-observabilidade.md",
+          "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/10-observabilidade.md",
           "icone": "grafico"
         },
         {
           "t": "Paquete: triaje de atención",
-          "href": "https://github.com/inematds/iacultivada/tree/main/pacotes/triagem-de-atendimento",
+          "href": "https://github.com/linnoff88-dev/iacultivada/tree/main/pacotes/triagem-de-atendimento",
           "icone": "pasta"
         }
       ]

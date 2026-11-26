@@ -280,17 +280,17 @@
       "links": [
         {
           "t": "Maturity ladder (full text)",
-          "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/05-escada-maturidade.md",
+          "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/05-escada-maturidade.md",
           "icone": "arquivo"
         },
         {
           "t": "Memory is not learning",
-          "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/08-memoria-vs-cultivo.md",
+          "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/08-memoria-vs-cultivo.md",
           "icone": "memoria"
         },
         {
           "t": "Map of current systems",
-          "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/07-mapa-sistemas.md",
+          "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/07-mapa-sistemas.md",
           "icone": "camadas"
         }
       ]

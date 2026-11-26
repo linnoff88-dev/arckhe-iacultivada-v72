@@ -305,12 +305,12 @@
       "links": [
         {
           "t": "Criterios para aumentar la autonomía (texto completo)",
-          "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/12-autonomia-progressiva.md",
+          "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/12-autonomia-progressiva.md",
           "icone": "arquivo"
         },
         {
           "t": "Paquete: calificador de leads (ficha, scorecard, n8n)",
-          "href": "https://github.com/inematds/iacultivada/tree/main/pacotes/qualificador-de-leads",
+          "href": "https://github.com/linnoff88-dev/iacultivada/tree/main/pacotes/qualificador-de-leads",
           "icone": "pasta"
         }
       ]

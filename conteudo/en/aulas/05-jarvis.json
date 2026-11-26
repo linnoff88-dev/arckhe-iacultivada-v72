@@ -102,7 +102,7 @@
         {
           "rot": "Install the project skills (Claude Code or Codex)",
           "icone": "terminal",
-          "conteudo": "git clone https://github.com/inematds/iacultivada.git\ncd iacultivada/skills\n./install.sh            # Claude Code: copies to ~/.claude/skills/\n./install.sh --codex    # Codex: copies to ~/.codex/skills/"
+          "conteudo": "git clone https://github.com/linnoff88-dev/iacultivada.git\ncd iacultivada/skills\n./install.sh            # Claude Code: copies to ~/.claude/skills/\n./install.sh --codex    # Codex: copies to ~/.codex/skills/"
         },
         {
           "rot": "Use it in your Jarvis folder",
@@ -271,17 +271,17 @@
       "links": [
         {
           "t": "Cultivated AI in your Jarvis (full text)",
-          "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/02-jarvis.md",
+          "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/02-jarvis.md",
           "icone": "arquivo"
         },
         {
           "t": "Skills /cultivar and /revisao-semanal",
-          "href": "https://github.com/inematds/iacultivada/tree/main/skills",
+          "href": "https://github.com/linnoff88-dev/iacultivada/tree/main/skills",
           "icone": "terminal"
         },
         {
           "t": "Course: Your Jarvis (from chat to agent)",
-          "href": "https://inematds.github.io/do-chat-ao-agente-jarvis-v72/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/",
           "icone": "robo"
         }
       ]

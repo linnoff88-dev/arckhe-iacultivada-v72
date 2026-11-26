@@ -62,8 +62,8 @@
       "titulo": "Prática",
       "sub": "Um agente seu, descrito por inteiro.",
       "exercicios": [
-        {"id": "e1", "titulo": "1 · A ficha do seu agente", "min": "20 min", "texto": "Escolha um agente (pode ser a IA que você usa para uma tarefa só). Preencha a ficha no <a href=\"https://inematds.github.io/iacultivada/gerador/\">gerador do projeto</a> ou copie o modelo acima.", "pronto": "a ficha tem funçêo em uma frase, um dono humano e pelo menos dois itens em cada lista: faz sozinho, pede confirmaçêo e nunca faz."},
-        {"id": "e2", "titulo": "2 · Os cinco arquivos numa pasta", "min": "15 min", "texto": "Baixe o kit que combina com você (pessoal, Jarvis ou empresa) na <a href=\"https://inematds.github.io/iacultivada/kits/\">página de kits</a> ou crie os cinco arquivos vazios numa pasta.", "pronto": "existe uma pasta com os cinco arquivos (ficha, contexto, exemplos, falhas e scorecard ou revisêo) e a ficha do exercício 1 está dentro dela."}
+        {"id": "e1", "titulo": "1 · A ficha do seu agente", "min": "20 min", "texto": "Escolha um agente (pode ser a IA que você usa para uma tarefa só). Preencha a ficha no <a href=\"https://linnoff88-dev.github.io/arckhe-/gerador/\">gerador do projeto</a> ou copie o modelo acima.", "pronto": "a ficha tem funçêo em uma frase, um dono humano e pelo menos dois itens em cada lista: faz sozinho, pede confirmaçêo e nunca faz."},
+        {"id": "e2", "titulo": "2 · Os cinco arquivos numa pasta", "min": "15 min", "texto": "Baixe o kit que combina com você (pessoal, Jarvis ou empresa) na <a href=\"https://linnoff88-dev.github.io/arckhe-/kits/\">página de kits</a> ou crie os cinco arquivos vazios numa pasta.", "pronto": "existe uma pasta com os cinco arquivos (ficha, contexto, exemplos, falhas e scorecard ou revisêo) e a ficha do exercício 1 está dentro dela."}
       ]
     },
     {
@@ -90,9 +90,9 @@
       "tipo": "links",
       "titulo": "Para ir além",
       "links": [
-        {"t": "Kits para baixar (pessoal, Jarvis, empresa)", "href": "https://inematds.github.io/iacultivada/kits/", "icone": "baixar"},
-        {"t": "Gerador de ficha, contexto e scorecard", "href": "https://inematds.github.io/iacultivada/gerador/", "icone": "caneta"},
-        {"t": "Kit prático completo (texto)", "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/04-kit-pratico.md", "icone": "arquivo"}
+        {"t": "Kits para baixar (pessoal, Jarvis, empresa)", "href": "https://linnoff88-dev.github.io/arckhe-/kits/", "icone": "baixar"},
+        {"t": "Gerador de ficha, contexto e scorecard", "href": "https://linnoff88-dev.github.io/arckhe-/gerador/", "icone": "caneta"},
+        {"t": "Kit prático completo (texto)", "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/04-kit-pratico.md", "icone": "arquivo"}
       ]
     }
   ]

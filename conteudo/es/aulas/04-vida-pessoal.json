@@ -169,7 +169,7 @@
           "id": "e1",
           "titulo": "1 · Sobre mí y tres reglas",
           "min": "25 min",
-          "texto": "Escribe SOBRE-MIM.md y REGRAS.md con una sola función. El <a href=\"https://inematds.github.io/iacultivada/kits/\">kit personal</a> tiene los archivos con un ejemplo ficticio.",
+          "texto": "Escribe SOBRE-MIM.md y REGRAS.md con una sola función. El <a href=\"https://linnoff88-dev.github.io/arckhe-/kits/\">kit personal</a> tiene los archivos con un ejemplo ficticio.",
           "pronto": "el Sobre mí cabe en una página, la función está escrita en una frase y hay exactamente tres reglas."
         },
         {
@@ -258,12 +258,12 @@
       "links": [
         {
           "t": "IA Cultivada en la vida personal (texto completo)",
-          "href": "https://github.com/inematds/iacultivada/blob/main/conteudo/01-vida-pessoal.md",
+          "href": "https://github.com/linnoff88-dev/iacultivada/blob/main/conteudo/01-vida-pessoal.md",
           "icone": "arquivo"
         },
         {
           "t": "Kit personal para descargar",
-          "href": "https://inematds.github.io/iacultivada/kits/",
+          "href": "https://linnoff88-dev.github.io/arckhe-/kits/",
           "icone": "baixar"
         }
       ]
