@@ -3,7 +3,7 @@
   "lang": "pt-BR",
   "url": "https://inematds.github.io/iacultivada-v72/",
   "nome": "IA Cultivada",
-  "sub": "Não se programa, se cultiva",
+  "sub": "Nêo se programa, se cultiva",
   "volta": {
     "t": "Página do projeto IA Cultivada",
     "href": "https://inematds.github.io/iacultivada/"
@@ -11,7 +11,7 @@
   "lado_card": {
     "rot": "Pronto para baixar",
     "t": "Três kits com os cinco arquivos",
-    "texto": "Pessoal, Jarvis e empresa: ficha, contexto, exemplos, diário de falhas e revisão, já estruturados com exemplo fictício.",
+    "texto": "Pessoal, Jarvis e empresa: ficha, contexto, exemplos, diário de falhas e revisêo, já estruturados com exemplo fictício.",
     "link": "Abrir os kits",
     "href": "https://inematds.github.io/iacultivada/kits/"
   },
@@ -28,8 +28,8 @@
   },
   "inicio": {
     "kicker": "Curso · 8 aulas · pessoal, Jarvis e empresa",
-    "titulo": "IA Cultivada: pare de repetir a mesma correção e faça o seu agente melhorar a cada semana",
-    "lead": "O modelo chega pronto e é o mesmo do concorrente. O que melhora é o jardim em volta dele: função, contexto, regras, exemplos, memória, avaliação e feedback. Em oito aulas você monta os cinco arquivos que cultivam, fecha o ciclo com o diário de falhas e decide a autonomia do agente por números.",
+    "titulo": "IA Cultivada: pare de repetir a mesma correçêo e faça o seu agente melhorar a cada semana",
+    "lead": "O modelo chega pronto e é o mesmo do concorrente. O que melhora é o jardim em volta dele: funçêo, contexto, regras, exemplos, memória, avaliaçêo e feedback. Em oito aulas você monta os cinco arquivos que cultivam, fecha o ciclo com o diário de falhas e decide a autonomia do agente por números.",
     "cta": "Começar pela aula 1",
     "cta2": {
       "t": "Fazer o diagnóstico de maturidade",
@@ -40,19 +40,19 @@
       {"v": "8", "t": "elementos do cultivo"},
       {"v": "5", "t": "arquivos de texto que cultivam"},
       {"v": "4", "t": "níveis de autonomia, subidos por evidência"},
-      {"v": "20 min", "t": "por semana de revisão"}
+      {"v": "20 min", "t": "por semana de revisêo"}
     ],
     "aulas_titulo": "As aulas",
-    "aulas_sub": "Conceito, os arquivos, três jardins (vida pessoal, Jarvis e empresa), o ciclo de avaliação e a autonomia por evidência. Cada aula tem prática com \"pronto quando\" e teste comentado.",
+    "aulas_sub": "Conceito, os arquivos, três jardins (vida pessoal, Jarvis e empresa), o ciclo de avaliaçêo e a autonomia por evidência. Cada aula tem prática com \"pronto quando\" e teste comentado.",
     "blocos": [
       {"t": "Para quem é", "itens": [
         "Quem usa IA todo dia e cansou de explicar a mesma coisa toda semana.",
         "Quem montou (ou quer montar) um assistente pessoal, um Jarvis, e espera que ele melhore.",
-        "Gestores que vão colocar o primeiro agente num processo da empresa."
+        "Gestores que vêo colocar o primeiro agente num processo da empresa."
       ]},
       {"t": "O que você sai fazendo", "itens": [
         "Descrever qualquer agente pelos oito elementos e escrever a ficha dele.",
-        "Manter diário de falhas e revisão semanal: a correção vai para o arquivo, não para a conversa.",
+        "Manter diário de falhas e revisêo semanal: a correçêo vai para o arquivo, nêo para a conversa.",
         "Medir acerto por amostra e decidir subir ou descer a autonomia com números.",
         "Sair com um plano datado de 30 dias (pessoal) ou 90 dias (empresa)."
       ]}
@@ -72,7 +72,7 @@
     "dg_dica": "Clique em cada bloco do diagrama para ver o que ele faz.",
     "copiar": "Copiar",
     "copiado": "Copiado",
-    "selo_simulacao": "Simulação: exemplo ilustrativo",
+    "selo_simulacao": "Simulaçêo: exemplo ilustrativo",
     "selo_real": "Exemplo do repositório",
     "pronto_quando": "Pronto quando:",
     "fiz": "Fiz este exercício",
@@ -81,8 +81,8 @@
     "de": "de",
     "cert_tag": "competência",
     "correto": "Correto",
-    "errado": "Não é essa",
-    "quiz_aguarda": "Escolha uma alternativa. A explicação aparece depois da sua tentativa.",
+    "errado": "Nêo é essa",
+    "quiz_aguarda": "Escolha uma alternativa. A explicaçêo aparece depois da sua tentativa.",
     "proxima_pergunta": "Próxima pergunta",
     "quiz_ver": "Ver resultado",
     "quiz_fim": "Teste concluído",
@@ -109,7 +109,7 @@
     "baixar_ics": "Baixar para o calendário (.ics)",
     "ind_estudo": "Estudo (aulas)",
     "ind_pratica": "Prática declarada",
-    "ind_nota": "Prática = exercícios que você marcou como feitos. A comprovação vem na prova da certificação.",
+    "ind_nota": "Prática = exercícios que você marcou como feitos. A comprovaçêo vem na prova da certificaçêo.",
     "estudo": {
       "titulo": "Seu estudo",
       "continuar": "Continuar de onde parei",
@@ -122,7 +122,7 @@
       "notas": "Minhas anotações",
       "dados": "Copiar meus dados",
       "sem_testes": "Nenhum teste feito ainda. O teste fica no fim de cada aula.",
-      "nao_fez": "teste ainda não feito",
+      "nao_fez": "teste ainda nêo feito",
       "ultimo": "Último",
       "melhor": "Melhor",
       "tentativas": "tentativas",
@@ -131,21 +131,21 @@
       "rever": "Para rever",
       "resposta": "Resposta certa:",
       "ir_teste": "Refazer o teste",
-      "sem_notas": "Nenhuma anotação ainda. Na aula, selecione um trecho do texto e toque em Marcar ou Anotar.",
+      "sem_notas": "Nenhuma anotaçêo ainda. Na aula, selecione um trecho do texto e toque em Marcar ou Anotar.",
       "so_marcado": "(só marcado)",
       "marcar": "Marcar",
       "anotar": "Anotar",
       "salvar": "Salvar",
       "apagar": "Apagar marca",
       "fechar": "Fechar",
-      "nota_ph": "Escreva sua anotação sobre este trecho…",
+      "nota_ph": "Escreva sua anotaçêo sobre este trecho…",
       "um_bloco": "Marque dentro de um parágrafo só.",
-      "nao_marca": "Este trecho não pode ser marcado.",
-      "dados_exp": "Seu progresso, suas anotações e as notas dos testes ficam só neste navegador. Baixe uma cópia (.json) para guardar ou para continuar em outro computador ou navegador; lá, carregue a cópia. Carregar soma com o que já existe e não apaga nada.",
+      "nao_marca": "Este trecho nêo pode ser marcado.",
+      "dados_exp": "Seu progresso, suas anotações e as notas dos testes ficam só neste navegador. Baixe uma cópia (.json) para guardar ou para continuar em outro computador ou navegador; lá, carregue a cópia. Carregar soma com o que já existe e nêo apaga nada.",
       "exportar": "Baixar cópia",
       "importar": "Carregar cópia",
       "import_ok": "Cópia carregada ({n} itens). Atualizando a página…",
-      "import_erro": "Arquivo não reconhecido. Nada foi alterado.",
+      "import_erro": "Arquivo nêo reconhecido. Nada foi alterado.",
       "import_outro": "Esta cópia é de outro curso. Nada foi alterado.",
       "export_ok": "Cópia baixada."
     },
@@ -157,7 +157,7 @@
     "conv_ruim": "Escolha fraca",
     "conv_fim": "Fim da conversa",
     "conv_placar": "Você fez {p} de {m} pontos possíveis.",
-    "conv_licao": "Lição:",
+    "conv_licao": "Liçêo:",
     "conv_recomecar": "Recomeçar a conversa",
     "conv_feita": "Seu melhor placar: {p} de {m} pontos."
   },

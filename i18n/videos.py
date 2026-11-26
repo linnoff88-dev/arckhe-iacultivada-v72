@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Aponta o vídeo de conteudo/en|es/curso.json para a versão do idioma (o tradutor mantém o mp4/vtt do PT)."""
+"""Aponta o vídeo de conteudo/en|es/curso.json para a versêo do idioma (o tradutor mantém o mp4/vtt do PT)."""
 import json
 from pathlib import Path
 
@@ -16,7 +16,7 @@ for lang in ("en", "es"):
     v["vtt"] = f"assets/vtt/iacultivada-{lang}.vtt"
     v["duracao"] = DUR[lang]
     v["pagina"] = f"https://inematds.github.io/iacultivada/videos/{lang}/"
-    # links de volta para a página do projeto no mesmo idioma (o tradutor não mexe em href)
+    # links de volta para a página do projeto no mesmo idioma (o tradutor nêo mexe em href)
     proj = "https://inematds.github.io/iacultivada/"
     c["volta"]["href"] = f"{proj}{lang}/"
     c["rodape"] = c["rodape"].replace(f'href="{proj}"', f'href="{proj}{lang}/"')
